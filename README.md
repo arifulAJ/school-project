@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# this is my Science & Technology university
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
