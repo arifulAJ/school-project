@@ -10,8 +10,12 @@ const Chield = (props) => {
   <div class="card">
     <img style={{height:"350px"}}  src={img} class="card-img-top " alt="..."/>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title">class : {name}</h5>
+     <h6>university : {university}</h6>
+     <h6>country : {country}</h6>
+
+      <p class="card-text">In missile guidance, the planned flight path events to be 
+A detailed and explicit set of directions for accomplishing some purpose, the set being expressed in some language suitable for input to a computer, or in machine language..</p>
       <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     </div>
   </div></div>
