@@ -1,4 +1,6 @@
-# this is my Science & Technology university
+# the website name is : Science & Technology university
+### It is about the educational web it is responsive too 
+### i use also font awesome 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
