@@ -17,7 +17,7 @@ function App() {
    <Router>
    
       <NavBar></NavBar>
-      {/* <Slider></Slider> */}
+   
     
    <Switch>
 
@@ -25,20 +25,23 @@ function App() {
    <Route path='/About'>
 <About></About>
 </Route>
-  {/* <Route path='/'>
-<Home></Home>
-  </Route> */}
-  <Route path='/home'>
-  <Slider></Slider>
-<Home></Home>
-
-  </Route>
+ 
 <Route path='/service'>
   <Service></Service>
 </Route>
 <Route path='/success'>
   <Success></Success>
 </Route>
+<Route path='/'>
+  <Slider></Slider>
+<Home></Home>
+
+  </Route>
+  <Route path='/home'>
+  <Slider></Slider>
+<Home></Home>
+
+  </Route>
 <Route path='*'>
   <NotFound></NotFound>
 
