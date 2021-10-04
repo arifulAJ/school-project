@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "computer class",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://thumbs.dreamstime.com/b/happy-university-computer-class-smiling-camera-university-48957758.jpg"
+    },
+    {
+      "id": 2,
+      "name": "math class",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://m.media-amazon.com/images/I/81+cXNOWc+L._SS500_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "chemistry class",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://media.istockphoto.com/vectors/chemistry-science-chemical-elements-blackboard-vector-id465347688?k=20&m=465347688&s=612x612&w=0&h=tilJ-9U635iDvY7l_XgMerXKQWGtZZl5d9i2vXwzbFQ="
+    },
+    {
+      "id": 4,
+      "name": "physics",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://cdn.mos.cms.futurecdn.net/af2M2qUBCNL7ncZT7t4pb8.jpg"
+    },
+    {
+      "id": 5,
+      "name": "english class",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM6bRsCoSrzq6IL4jbl7IPuPP1dRX0gsN8Gw&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "history class",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://t4.ftcdn.net/jpg/03/40/92/53/360_F_340925364_NBr0p7ZfUhvLgVKuxEbquimNmKuf7qAL.jpg"
+    },
+    {
+      "id": 1,
+      "name": "programming",
+      "country": "bangladesh",
+      "university": "national university",
+      "img": "https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png"
+    },
+    {
+      "id": 1,
+      "name": " docter",
+      "country": "bangladesh",
+      "university": "at  university",
+      "img": "https://i.redd.it/a01232dw39161.jpg"
+    }
+  ]
